@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=/home/khanov/work/mg5/MG5_aMC_v3_7_1/HEPTools/pythia8/lib:$LD_LIBRARY_PATH
