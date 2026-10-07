@@ -1,0 +1,3 @@
+export PYTHIA_PATH=`find ~ -name pythia8318`
+echo $PYTHIA_PATH
+export LD_LIBRARY_PATH=$PYTHIA_PATH/lib:$LD_LIBRARY_PATH
